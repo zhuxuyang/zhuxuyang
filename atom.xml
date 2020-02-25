@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT工作组</title>
+  
+  <subtitle>这是个人笔记，一是记录学习的知识，二是把自己踩得坑给有缘人填上。。。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://itwork.group/"/>
+  <updated>2020-02-25T15:17:40.749Z</updated>
+  <id>https://itwork.group/</id>
+  
+  <author>
+    <name>阳阳</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“新冠肺炎诗三则”</title>
+    <link href="https://itwork.group/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%AF%97%E4%B8%89%E5%88%99/"/>
+    <id>https://itwork.group/新冠肺炎诗三则/</id>
+    <published>2020-02-25T15:11:34.000Z</published>
+    <updated>2020-02-25T15:17:40.749Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="一"><a href="#一" class="headerlink" title="一"></a>一</h5><p>寒风瑟瑟树影重，万里城关路不通。</p><p>千家万户布遮面，人间疾苦正月中。</p><h5 id="二"><a href="#二" class="headerlink" title="二"></a>二</h5><p>疾风长入夜，初雪庚子年</p><p>灾祸四处起，黎民水火中</p><p>作坊多倒闭，大厂少发钱</p><p>今人不学史，有话也难言</p><h5 id="三"><a href="#三" class="headerlink" title="三"></a>三</h5><p>年纪轻轻哪里愁</p><p>人心惶惶疫未休</p><p>若不工作吃谁饭</p><p>贫穷使我去杭州</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;一&quot;&gt;&lt;a href=&quot;#一&quot; class=&quot;headerlink&quot; title=&quot;一&quot;&gt;&lt;/a&gt;一&lt;/h5&gt;&lt;p&gt;寒风瑟瑟树影重，万里城关路不通。&lt;/p&gt;
+&lt;p&gt;千家万户布遮面，人间疾苦正月中。&lt;/p&gt;
+&lt;h5 id=&quot;二&quot;&gt;&lt;a href=&quot;#二&quot; class
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://itwork.group/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>失眠有感</title>
+    <link href="https://itwork.group/%E5%A4%B1%E7%9C%A0%E6%9C%89%E6%84%9F/"/>
+    <id>https://itwork.group/失眠有感/</id>
+    <published>2020-02-25T15:04:37.000Z</published>
+    <updated>2020-02-25T15:05:03.615Z</updated>
+    
+    <content type="html"><![CDATA[<p>晚上失眠到两三点，突然诗兴大发</p><p>应有静谧月光，</p><p>应有暗香扣窗，</p><p>姑娘悄悄进我心房，</p><p>温柔的床，</p><p>依旧难入梦乡。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;晚上失眠到两三点，突然诗兴大发&lt;/p&gt;
+&lt;p&gt;应有静谧月光，&lt;/p&gt;
+&lt;p&gt;应有暗香扣窗，&lt;/p&gt;
+&lt;p&gt;姑娘悄悄进我心房，&lt;/p&gt;
+&lt;p&gt;温柔的床，&lt;/p&gt;
+&lt;p&gt;依旧难入梦乡。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://itwork.group/%E5%91%BD%E4%BB%A4/"/>
+    <id>https://itwork.group/命令/</id>
+    <published>2020-01-11T02:05:48.629Z</published>
+    <updated>2020-01-11T02:05:48.629Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">root@unbuntu<span class="symbol">:/</span><span class="comment"># cat &lt;&lt; EOF &gt;abcd.txt</span></span><br><span class="line">&gt; uu</span><br><span class="line">&gt; hello world</span><br><span class="line">&gt; ii</span><br><span class="line">&gt; hah</span><br><span class="line">&gt; EOF</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight ruby&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>golang重点笔记</title>
+    <link href="https://itwork.group/golang%E9%87%8D%E7%82%B9%E7%AC%94%E8%AE%B0/"/>
+    <id>https://itwork.group/golang重点笔记/</id>
+    <published>2019-09-23T06:52:35.000Z</published>
+    <updated>2020-01-11T02:05:48.627Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="go语言的闭包重点"><a href="#go语言的闭包重点" class="headerlink" title="go语言的闭包重点"></a>go语言的闭包重点</h3><ul><li>闭包不是某一种语言特有的机制,但常出现在函数式编程中,尤其是函数占据重要地位的编程语言.</li><li>闭包的直观表现是函数内部嵌套了函数,并且内部函数访问了外部变量,从而使得自由变量获得延长寿命的能力.</li><li>闭包中使用的自由变量一般有值传递和引用传递两种形式,示例中的斐波那契数列生成器利用的是引用而循环变量示例用的是值传递.</li><li>Go不支持函数嵌套但支持匿名函数,语法层面的差异性掩盖不了闭包整体的统一性.</li></ul><p>速记：只要函数还被引用着，里面的变量不会被销毁</p><p>示例: 斐波那契</p><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">fibonacci</span><span class="params">()</span> <span class="title">func</span><span class="params">()</span> <span class="title">int</span></span> &#123;</span><br><span class="line">  a, b := <span class="number">0</span>, <span class="number">1</span></span><br><span class="line">  <span class="keyword">return</span> <span class="function"><span class="keyword">func</span><span class="params">()</span> <span class="title">int</span></span> &#123;</span><br><span class="line">    a, b = b, a+b</span><br><span class="line">    <span class="keyword">return</span> a</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 1 1 2 3 5 8 13 21 34 55</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">TestFibonacci</span><span class="params">(t *testing.T)</span></span> &#123;</span><br><span class="line">  f := fibonacci()</span><br><span class="line">  <span class="keyword">for</span> i := <span class="number">0</span>; i &lt; <span class="number">10</span>; i++ &#123;</span><br><span class="line">    fmt.Print(f(), <span class="string">" "</span>)</span><br><span class="line">  &#125;</span><br><span class="line">  fmt.Println()</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>示例：引用传递和值传递</p><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line"> <span class="function"><span class="keyword">func</span> <span class="title">countByClosureWithOk</span><span class="params">()</span> []<span class="title">func</span><span class="params">()</span> <span class="title">int</span></span> &#123;</span><br><span class="line">  <span class="keyword">var</span> arr []<span class="function"><span class="keyword">func</span><span class="params">()</span> <span class="title">int</span></span></span><br><span class="line"><span class="function">  <span class="title">for</span> <span class="title">i</span> := 1; <span class="title">i</span> &lt;= 3; <span class="title">i</span>++</span> &#123;</span><br><span class="line">    <span class="function"><span class="keyword">func</span><span class="params">(n <span class="keyword">int</span>)</span></span> &#123;</span><br><span class="line">      arr = <span class="built_in">append</span>(arr, <span class="function"><span class="keyword">func</span><span class="params">()</span> <span class="title">int</span></span> &#123;</span><br><span class="line">        <span class="keyword">return</span> n</span><br><span class="line">      &#125;)</span><br><span class="line">    &#125;(i)</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">countByClosureButWrong</span><span class="params">()</span> []<span class="title">func</span><span class="params">()</span> <span class="title">int</span></span> &#123;</span><br><span class="line">  <span class="keyword">var</span> arr []<span class="function"><span class="keyword">func</span><span class="params">()</span> <span class="title">int</span></span></span><br><span class="line"><span class="function">  <span class="title">for</span> <span class="title">i</span> := 1; <span class="title">i</span> &lt;= 3; <span class="title">i</span>++</span> &#123;</span><br><span class="line">    arr = <span class="built_in">append</span>(arr, <span class="function"><span class="keyword">func</span><span class="params">()</span> <span class="title">int</span></span> &#123;</span><br><span class="line">      <span class="keyword">return</span> i</span><br><span class="line">    &#125;)</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> arr</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">TestCountByClosure</span><span class="params">(t *testing.T)</span></span> &#123;</span><br><span class="line">   <span class="comment">// 1 2 3</span></span><br><span class="line">  <span class="keyword">for</span> _, c := <span class="keyword">range</span> countByClosureWithOk() &#123;</span><br><span class="line">    t.Log(c())</span><br><span class="line">  &#125;</span><br><span class="line">  </span><br><span class="line">    <span class="comment">// 4 4 4 </span></span><br><span class="line">  <span class="keyword">for</span> _, c := <span class="keyword">range</span> countByClosureButWrong() &#123;</span><br><span class="line">    t.Log(c())</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>上面的例子，在使用闭包的时候，都把函数存到了一个变量里，这样整个函数包括里面的变量，都不会被释放，直到不再引用这个变量。这个跟语言的垃圾回收机制有关。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;go语言的闭包重点&quot;&gt;&lt;a href=&quot;#go语言的闭包重点&quot; class=&quot;headerlink&quot; title=&quot;go语言的闭包重点&quot;&gt;&lt;/a&gt;go语言的闭包重点&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;闭包不是某一种语言特有的机制,但常出现在函数式编程中,尤其是函数占据重要
+      
+    
+    </summary>
+    
+    
+      <category term="golang" scheme="https://itwork.group/tags/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vagrant搭建k8s集群</title>
+    <link href="https://itwork.group/vagrant%E6%90%AD%E5%BB%BAk8s%E9%9B%86%E7%BE%A4/"/>
+    <id>https://itwork.group/vagrant搭建k8s集群/</id>
+    <published>2019-09-07T13:55:55.000Z</published>
+    <updated>2020-01-11T02:05:48.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>我使用之前的vagrant工具，启动了ubuntu16.04虚拟机，并且安装了docker,git工具，然后导出了自己的vagrant box文件，命名为docker.box。 然后基于这个box 搭建k8s。</p><h3 id="宿主机的配置"><a href="#宿主机的配置" class="headerlink" title="宿主机的配置"></a>宿主机的配置</h3><p>在合适的地方创建cluster文件夹，然后将docker.box移入这个目录，不移入也没关系，我这是便于管理。然后参考之前的教程，步骤都是一样滴，添加box到vagrant，执行vagrant init  docker，在当前目录生成Vagrantfile，然后修改默认的Vagrantfile，启动虚拟机。</p><p>Vagrantfile配置文件改为：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">Vagrant.configure("2") do |config|</span><br><span class="line">  config.vm.box = "docker"</span><br><span class="line">  config.vm.define "master" do |master|  # 第一个虚拟机,名字为master，配置命名为master</span><br><span class="line">        master.vm.network "private_network", ip: "192.168.100.100"</span><br><span class="line">        master.vm.hostname = "master"</span><br><span class="line">        master.vm.provider "virtualbox" do|pmaster|</span><br><span class="line">                pmaster.memory = "1024"</span><br><span class="line">                pmaster.cpus = 1</span><br><span class="line">        end</span><br><span class="line">  end</span><br></pre></td></tr></table></figure><h3 id="k8s安装基础环境配置"><a href="#k8s安装基础环境配置" class="headerlink" title="k8s安装基础环境配置"></a>k8s安装基础环境配置</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 创建安装源配置文件</span><br><span class="line">sudo touch /etc/apt/sources.list.d/kubernetes.list</span><br><span class="line"><span class="meta">#</span> 设置文件可写</span><br><span class="line">sudo chmod 666 /etc/apt/sources.list.d/kubernetes.list</span><br><span class="line"><span class="meta">#</span> 添加下载源到文件末尾</span><br><span class="line">sudo cat &lt;&lt;EOF &gt;/etc/apt/sources.list.d/kubernetes.list</span><br><span class="line">deb https://mirrors.aliyun.com/kubernetes/apt/ kubernetes-xenial main</span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 更新源</span><br><span class="line">sudo apt update</span><br><span class="line"><span class="meta">#</span> 然而报错了，说 the public key is not available: NO_PUBKEY 6A030B21BA07F4FB</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 添加key的后八位 BA07F4FB 到系统中，这个步骤其实是k8s的安全下载措施</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 在机器上生成证书</span><br><span class="line">sudo gpg --keyserver keyserver.ubuntu.com --recv-keys BA07F4FB</span><br><span class="line"><span class="meta">#</span> 添加证书到k8s的环境中</span><br><span class="line">sudo gpg --export --armor BA07F4FB | sudo apt-key add -</span><br><span class="line"><span class="meta">#</span> 更新下载源</span><br><span class="line">sudo apt update</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 一般涉及到网络的服务，都会禁止系统自带的安全模块，防止出错</span><br><span class="line"><span class="meta">#</span> 禁止系统自带的防火墙unix firewall </span><br><span class="line">sudo ufw disable</span><br><span class="line"><span class="meta">#</span> 关闭系统swap,一般是永久关闭，然而vagrant的ubuntu16.04虚拟机默认就是关闭的</span><br><span class="line"><span class="meta">#</span> 在系统文件 /etc/fstab 里没有swap.img的配置，如果有，注释掉就是永久关闭swap了</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 禁止selinux,这是ubuntu自带的类似360的软件,这个我猜不做也可以，</span><br><span class="line"><span class="meta">#</span> 不过这个软件影响机器性能，还没什么用，禁了。要禁止它需要下载他的工具selinux-utils</span><br><span class="line">sudo apt install -y selinux-utils</span><br><span class="line"><span class="meta">#</span> 关闭它</span><br><span class="line">setenforce 0</span><br><span class="line"><span class="meta">#</span> 查看是否已经关闭 selinux</span><br><span class="line">sudo getenforce </span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 重启机器</span><br><span class="line">sudo shutdown  -r now</span><br></pre></td></tr></table></figure><h3 id="k8s系统网络环境配置"><a href="#k8s系统网络环境配置" class="headerlink" title="k8s系统网络环境配置"></a>k8s系统网络环境配置</h3><p>创建 /etc/sysctl.d/k8s.conf 文件，写入内容：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 修改文件可读可写</span><br><span class="line">sudo chmod 666 /etc/sysctl.d/k8s.conf</span><br><span class="line"><span class="meta">#</span> 添加内容</span><br><span class="line">sudo cat &lt;&lt;EOF &gt; /etc/sysctl.d/k8s.conf</span><br><span class="line">net.ipv4.ip_forward = 1</span><br><span class="line">net.bridge.bridge-nf-call-ip6tables = 1</span><br><span class="line">net.bridge.bridge-nf-call-iptables = 1</span><br><span class="line">EOF</span><br></pre></td></tr></table></figure><p>与视频不一致，我这个是官网复制的，视频里多了一行    vm.swappiness=0</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 使用modproble加载网桥透明防火墙</span><br><span class="line">sudo modprobe br_netfilter</span><br><span class="line"><span class="meta">#</span> 使配置文件生效</span><br><span class="line">sudo sysctl -p /etc/sysctl.d/k8s.conf</span><br><span class="line"><span class="meta">#</span> 安装k8s</span><br><span class="line">sudo apt update</span><br><span class="line">sudo apt-get install kubelet kubernetes-cni kubectl kubeadm</span><br></pre></td></tr></table></figure><p>vagrant 里如果需要root权限，可能无法授权。可以先sudo passwd root 先给root设定一个密码就可以了。</p><p>重启机器，到这个时候，如果执行kubectl get nodes,显示</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">The connection to the server localhost:8080 was refused - did you specify the right host or port?</span><br></pre></td></tr></table></figure><p>这是网络环境还不对，但是命令已经有了。</p><p>使用vagrant给机器做个镜像，导出镜像为 k8s.box ，添加k8s.box到 vagrant  box list 里，之后需要根据这个box 部署集群。</p><h4 id="集群的机器准备"><a href="#集群的机器准备" class="headerlink" title="集群的机器准备"></a>集群的机器准备</h4><p>准备三台虚拟机，分别为master,slave01,slave02</p><p>在cluster目录下，创建两个文件夹 master和slave，分别在这两个文件夹下创建Vagrantfile</p><p>第一个：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">Vagrant.configure("2") do |config|</span><br><span class="line">  config.vm.box = "k8s"</span><br><span class="line">  config.vm.define "master" do |master|  # 第一个虚拟机，打算作为k8s的master,配置命名为master</span><br><span class="line">        master.vm.network "private_network", ip: "192.168.100.100"</span><br><span class="line">        master.vm.hostname = "master"</span><br><span class="line">        master.vm.provider "virtualbox" do|pmaster|</span><br><span class="line">                pmaster.memory = "1024"</span><br><span class="line">                pmaster.cpus = 1</span><br><span class="line">        end</span><br><span class="line">  end</span><br><span class="line">end</span><br></pre></td></tr></table></figure><p>第二个</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">Vagrant.configure("2") do |config| # 表示使用版本2的配置文件格式启动，配置命名为config，下面可以引用</span><br><span class="line">  config.vm.box = "k8s"  # 指定box list 里的 box </span><br><span class="line"></span><br><span class="line">  config.vm.define "slave01" do |slave01|  # 虚拟机名字为slave01，配置命名为slave01</span><br><span class="line">        master.vm.network "private_network", ip: "192.168.100.101"</span><br><span class="line">        master.vm.hostname = "slave01"</span><br><span class="line">        master.vm.provider "virtualbox" do|pslave01|</span><br><span class="line">                pmaster.memory = "1024"</span><br><span class="line">                pmaster.cpus = 1</span><br><span class="line">        end</span><br><span class="line">   end</span><br><span class="line">   config.vm.define "slave02" do|slave02|</span><br><span class="line">        slave01.vm.hostname = "slave02"</span><br><span class="line">        slave01.vm.network "private_network", ip: "192.168.100.102"</span><br><span class="line">        slave01.vm.provider "virtualbox" do|pslave02|</span><br><span class="line">                pslave01.memory = "1024"</span><br><span class="line">                pslave01.cpus = 1</span><br><span class="line">        end</span><br><span class="line">   end   </span><br><span class="line">   </span><br><span class="line">end</span><br></pre></td></tr></table></figure><p>启动三个虚拟机，根据各自的ip修改他们的 /etc/hosts,在文件中添加</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">192.168.100.100 master</span><br><span class="line">192.168.100.101 slave01</span><br><span class="line">192.168.100.102 slave02</span><br></pre></td></tr></table></figure><p>使它们可以根据机器名字互相ping通</p><h4 id="集群配置文件"><a href="#集群配置文件" class="headerlink" title="集群配置文件"></a>集群配置文件</h4><p>登陆master,在～目录下创建working文件夹，然后生成配置文件</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">mkdir working</span><br><span class="line">cd working</span><br><span class="line">kubeadm config print init-defaults ClusterConfiguration &gt; kubeadm.conf</span><br></pre></td></tr></table></figure><p>配置文件稍作修改</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 镜像源修改</span><br><span class="line">imageRepository: registry.aliyuncs.com/google_containers  </span><br><span class="line"><span class="meta">#</span> 本机ip</span><br><span class="line">advertiseAddress: 192.168.100.100</span><br><span class="line"><span class="meta">#</span> 最后的网络</span><br><span class="line">networking:</span><br><span class="line">  dnsDomain: cluster.local</span><br><span class="line">  podSubnet: 10.244.0.0/16  # pod之间的通信网络</span><br><span class="line">  serviceSubnet: 10.96.0.0/12 # pod之间的通信网络</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 查看需要下载的模块</span><br><span class="line">kubeadm config images list --config kubeadm.conf</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 下载模块</span><br><span class="line">kubeadm config images pull --config kubeadm.conf</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 初始化生成master</span><br><span class="line">sudo kubeadm init --config ./kubeadm.conf</span><br></pre></td></tr></table></figure><p>说明：</p><ol><li>registry.aliyuncs.com/google_containers/kube-apiserver:v1.16.0  apiserver提供对外接口，外部通过访问apiserver进入到集群中，所以每个kubelet都有这个</li><li>registry.aliyuncs.com/google_containers/kube-controller-manager:v1.16.0 Controller Manager作为集群内部的管理控制中心，负责集群内的Node、Pod副本、服务端点（Endpoint）、命名空间（Namespace）、服务账号（ServiceAccount）、资源定额（ResourceQuota）的管理，当某个Node意外宕机时，Controller Manager会及时发现并执行自动化修复流程，确保集群始终处于预期的工作状态。</li><li>registry.aliyuncs.com/google_containers/kube-scheduler:v1.16.0。调度器是一个策略丰富、拓扑感知、工作负载特定的功能，显著影响可用性、性能和容量。调度器需要考虑个人和集体 的资源要求、服务质量要求、硬件/软件/政策约束、亲和力和反亲和力规范、数据局部性、负载间干扰、完成期限等。 工作负载特定的要求必要时将通过 API 暴露。</li><li>registry.aliyuncs.com/google_containers/kube-proxy:v1.16.0.  主要做内部的负载均衡</li><li>registry.aliyuncs.com/google_containers/pause:3.1。Kubernetes创建Pod时，首先会创建一个pause容器，为Pod指派一个唯一的IP地址。然后，以pause的网络命名空间为基础，创建同一个Pod内的其它容器（–net=container:xxx）。因此，同一个Pod内的所有容器就会共享同一个网络命名空间，在同一个Pod之间的容器可以直接使用localhost进行通信。</li><li>registry.aliyuncs.com/google_containers/etcd:3.3.15-0    各个容器数据的内部一致性</li><li>registry.aliyuncs.com/google_containers/coredns:1.6.2 </li></ol><p>上面的模块安装后，会提示执行如下指令</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span># 本地环境配置</span><br><span class="line">mkdir -p $HOME/.kube</span><br><span class="line">sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config</span><br><span class="line">sudo chown $(id -u):$(id -g) $HOME/.kube/config</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 其他机器加入集群，这个提示的token要备份，以后其他机器加入集群都要用</span><br><span class="line"><span class="meta">#</span> kubeadm join 192.168.100.100:6443 --token  巴啦啦啦一大堆</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 开机启动</span><br><span class="line">sudo systemctl enable kubelet</span><br><span class="line">sudo systemctl start kubelet</span><br><span class="line"><span class="meta">#</span> 查看命令,这个时候终于有了,但是status还是NotReady，是因为还没有配置内部网络环境</span><br><span class="line">kubectl get node</span><br></pre></td></tr></table></figure><h4 id="配置集群的内部网络环境flannel"><a href="#配置集群的内部网络环境flannel" class="headerlink" title="配置集群的内部网络环境flannel"></a>配置集群的内部网络环境flannel</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 下载一个配置文件</span><br><span class="line">wget https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml</span><br><span class="line"><span class="meta">#</span> 修改里面的 net-conf.json选项，网络为 kubeadm.conf配置文件里面的网络</span><br><span class="line"><span class="meta">#</span>     &#123;</span><br><span class="line"><span class="meta">#</span>       "Network": "10.244.0.0/16",</span><br><span class="line"><span class="meta">#</span>       "Backend": &#123;</span><br><span class="line"><span class="meta">#</span>        "Type": "vxlan"</span><br><span class="line"><span class="meta">#</span>       &#125;</span><br><span class="line"><span class="meta">#</span>     &#125;</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 执行命令生效flannel配置</span><br><span class="line">kubeadm apply -f kube-flannel.yml</span><br></pre></td></tr></table></figure><p>过一会儿，等配置生效。然后执行  kubectl get nodes 命令，status就是ready了。到此，master终于弄好了。</p><h4 id="添加其他机器到集群中"><a href="#添加其他机器到集群中" class="headerlink" title="添加其他机器到集群中"></a>添加其他机器到集群中</h4><p>将master机器里的两个文件分别复制到slave01和slave02机器里。</p><p> /etc/kubernetes/admin.conf   </p><p>~/working/kube-flannel.yml</p><p>登陆进入slave01机器，执行</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 开机启动</span><br><span class="line">sudo systemctl enable kubelet</span><br><span class="line">sudo systemctl start kubelet</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 用admin.conf文件生成k8s配置文件</span><br><span class="line">mkdir -p $HOME/.kube</span><br><span class="line">sudo cp -i admin.conf .kube/config </span><br><span class="line">sudo chown $(id -u):$(id -g) .kube/config </span><br><span class="line"><span class="meta">#</span> 用mster初始化的时候生成的信息加入到集群中</span><br><span class="line">sudo kubeadm join 192.168.100.100:6443 --token abcde巴拉巴拉一大堆</span><br></pre></td></tr></table></figure><p>到此为止，slave01已经加入到集群里，过一会儿等它生效，执行  kubectl get nodes 命令，会看到有两台机器，且status是ready了。slave02也是一样的操作。</p><p>最后，如果slave机器一直都是notready，还需要配置slave01和slave02可以互相通信，就需要用到master里复制过来的kube-flannel.yml文件了</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl apply -f kube-flannel.yml</span><br></pre></td></tr></table></figure><h4 id="总结几个大步骤"><a href="#总结几个大步骤" class="headerlink" title="总结几个大步骤"></a>总结几个大步骤</h4><ol><li>master机器上kubeadm init –config 创建master，生成配置文件</li><li>配置集群的内部通信网络，flannel网络</li><li>配置node节点，分配网络</li><li>让node加入集群</li></ol><h4 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h4><p>到此为止，终于部署好三台机器的k8s集群，可以分别给master和node做镜像，防止以后还要重新这样部署一遍，啦啦啦   ：）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我使用之前的vagrant工具，启动了ubuntu16.04虚拟机，并且安装了docker,git工具，然后导出了自己的vagrant box文件，命名为docker.box。 然后基于这个box 搭建k8s。&lt;/p&gt;
+&lt;h3 id=&quot;宿主机的配置&quot;&gt;&lt;a href=&quot;#宿
+      
+    
+    </summary>
+    
+      <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="vagrant" scheme="https://itwork.group/tags/vagrant/"/>
+    
+      <category term="docker" scheme="https://itwork.group/tags/docker/"/>
+    
+      <category term="k8s" scheme="https://itwork.group/tags/k8s/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mac自带的工具sips处理图片翻转剪切格式转换</title>
+    <link href="https://itwork.group/mac%E8%87%AA%E5%B8%A6%E7%9A%84%E5%B7%A5%E5%85%B7sips%E5%A4%84%E7%90%86%E5%9B%BE%E7%89%87%E7%BF%BB%E8%BD%AC%E5%89%AA%E5%88%87%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2/"/>
+    <id>https://itwork.group/mac自带的工具sips处理图片翻转剪切格式转换/</id>
+    <published>2019-08-15T10:02:33.000Z</published>
+    <updated>2020-01-11T02:05:48.627Z</updated>
+    
+    <content type="html"><![CDATA[<p>mac上自带一个工具，有时候仅仅是简单的修改一下图片，就不需要额外下载其他工具，很有用。叫做sips，是一个命令行工具，简单的处理图片或者批量处理图片的神器。</p><p><strong><em>记住，不指定输出文件会覆盖原文件，一定要先备份</em></strong></p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span>裁剪 其中600表示高度为600px,宽度为按比例缩放</span><br><span class="line">sips -Z 600 aa.jpg</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span>格式转换, 使用 -s 参数可以修改图片格式为指定值，</span><br><span class="line"><span class="meta">#</span>sips 支持 jpeg | tiff | png | gif | jp2 | pict | #bmp | qtif | psd | sgi | tga 共 11 种格式。</span><br><span class="line">sips -s format jpeg --out a.jpg aa.png</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 指定宽高输出图片</span><br><span class="line">sips --out output.png -z $&#123;height&#125; $&#123;width&#125; input.png</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 制定宽度、保持比例输出图片</span><br><span class="line">sips --out output.png --resampleWidth $&#123;width&#125; input.png</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 指定宽度、保持比例(会覆盖源图片)</span><br><span class="line">sips --resampleWidth $&#123;width&#125; *.jpg</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 指定宽高(会覆盖源图片)</span><br><span class="line">sips -z $&#123;height&#125; $&#123;width&#125; *.jpg</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 顺时针旋转 90 度</span><br><span class="line">sips -r 90 image_file_name</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 水平翻转图片 </span><br><span class="line"><span class="meta">#</span> horizontal/vertical 水平／垂直</span><br><span class="line">sips -f horizontal image_file_name</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 获取图片 meta 信息</span><br><span class="line">sips -g pixelWidth -g pixelHeight image_file_name</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 可使用查看更多信息</span><br><span class="line">man sips</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;mac上自带一个工具，有时候仅仅是简单的修改一下图片，就不需要额外下载其他工具，很有用。叫做sips，是一个命令行工具，简单的处理图片或者批量处理图片的神器。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;记住，不指定输出文件会覆盖原文件，一定要先备份&lt;/em&gt;&lt;/strong&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="工具" scheme="https://itwork.group/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="sips" scheme="https://itwork.group/tags/sips/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ubuntu双显卡自动安装nvidia显卡驱动</title>
+    <link href="https://itwork.group/ubuntu%E5%8F%8C%E6%98%BE%E5%8D%A1%E8%87%AA%E5%8A%A8%E5%AE%89%E8%A3%85nvidia%E6%98%BE%E5%8D%A1%E9%A9%B1%E5%8A%A8/"/>
+    <id>https://itwork.group/ubuntu双显卡自动安装nvidia显卡驱动/</id>
+    <published>2019-01-19T02:20:40.000Z</published>
+    <updated>2020-01-11T02:05:48.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近在玩深度学习，正好手上有一台Nvidia显卡的游戏本。于是装个ubuntu18.04玩玩。装官方驱动遇到了双显卡导致的显卡驱动的各种问题。后来一顿操作，发现其实可以几行代码搞定，不需要像网上流传的那么繁琐。。</p><p>装好系统后，首先要进去桌面，这里网上有常见的办法，开机设置 nomodeset 就好</p><p>进入桌面后，联网，换源。</p><ol><li><p>首先，检测你的NVIDIA显卡型号和推荐的驱动程序的模型，并显示计算机即将安装的驱动。</p></li><li><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ubuntu-drivers devices</span><br></pre></td></tr></table></figure></li><li><p>如果同意计算机的以上推荐设置，执行</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo ubuntu-drivers autoinstall</span><br></pre></td></tr></table></figure><p>接下来就是等待，装好后重启。</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近在玩深度学习，正好手上有一台Nvidia显卡的游戏本。于是装个ubuntu18.04玩玩。装官方驱动遇到了双显卡导致的显卡驱动的各种问题。后来一顿操作，发现其实可以几行代码搞定，不需要像网上流传的那么繁琐。。&lt;/p&gt;
+&lt;p&gt;装好系统后，首先要进去桌面，这里网上有常见的办
+      
+    
+    </summary>
+    
+      <category term="人工智能" scheme="https://itwork.group/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    
+      <category term="ubuntu" scheme="https://itwork.group/tags/ubuntu/"/>
+    
+      <category term="nvidia" scheme="https://itwork.group/tags/nvidia/"/>
+    
+      <category term="双显卡" scheme="https://itwork.group/tags/%E5%8F%8C%E6%98%BE%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>golang的依赖管理gomod的使用</title>
+    <link href="https://itwork.group/golang%E7%9A%84%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86gomod%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>https://itwork.group/golang的依赖管理gomod的使用/</id>
+    <published>2019-01-09T05:20:26.000Z</published>
+    <updated>2020-01-11T02:05:48.627Z</updated>
+    
+    <content type="html"><![CDATA[<p>以前的go语言项目，代码依赖是个麻烦的事情。所有的项目必须放在GOPATH的src目录下，如果不同项目依赖同一个库的不同版本，就比较麻烦，不好管理。现在go语言终于有了go mod工具，可以像java一样管理依赖，工程代码可以放在其他目录了。</p><h3 id="环境变量设置"><a href="#环境变量设置" class="headerlink" title="环境变量设置"></a>环境变量设置</h3><p>设置环境变量 GO111MODULE ，值为下面三选一。</p><ul><li><code>GO111MODULE=off</code>，go命令行将不会支持module功能，寻找依赖包的方式将会沿用旧版本那种通过vendor目录或者GOPATH模式来查找。</li><li><code>GO111MODULE=on</code>，go命令行会使用modules，而一点也不会去GOPATH目录下查找。</li><li><code>GO111MODULE=auto</code>，默认值，go命令行将会根据当前目录来决定是否启用module功能。这种情况下可以分为两种情形：<ol><li>当前目录在GOPATH/src之外且该目录包含go.mod文件。<ol start="2"><li>当前文件在包含go.mod文件的目录下面。</li></ol></li></ol></li></ul><p>既然默认是自动的，那么这个环境变量一般可以不设置。</p><h3 id="go-mod的使用"><a href="#go-mod的使用" class="headerlink" title="go mod的使用"></a>go mod的使用</h3><ol><li>在<code>GOPATH 目录之外</code>新建一个目录，并使用<code>go mod init</code> 初始化生成<code>go.mod</code> 文件。只要有了这个文件，那么项目就使用了gomod来管理依赖了。</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">mkdir testgomod # 项目名叫testgomod</span><br><span class="line">cd testgomod</span><br><span class="line">go mod init testgomod # 初始化go mod ,在当前目录生成go.mod文件</span><br></pre></td></tr></table></figure><p>这个时候go.mod内容为,还没有任何依赖</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">module testmod</span><br><span class="line"></span><br><span class="line">go 1.12</span><br></pre></td></tr></table></figure><p>在testgomod下创建main.go 文件，里面有两个常用依赖，内容为：</p><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> (</span><br><span class="line"><span class="string">"github.com/gin-gonic/gin"</span></span><br><span class="line"><span class="string">"github.com/jinzhu/gorm"</span></span><br><span class="line"><span class="string">"log"</span></span><br><span class="line">)</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</span><br><span class="line">log.Print(gorm.Model&#123;&#125;)</span><br><span class="line">log.Print(gin.Default())</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>这个时候执行go build, gomod 会自动拉取相关依赖包，然后在go.mod里加入依赖信息，go.mod内容为：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">module testmod</span><br><span class="line"></span><br><span class="line">go 1.12</span><br><span class="line"></span><br><span class="line">require (</span><br><span class="line">github.com/gin-gonic/gin v1.4.0</span><br><span class="line">github.com/jinzhu/gorm v1.9.10</span><br><span class="line">)</span><br></pre></td></tr></table></figure><p>依赖包的源码在$GOPATH/pkg/mod目录下。依赖包的版本可以在go.mod里指定版本号，修改后再次执行</p><p>go build，就可以更新依赖。以后就再也不需要go get ./…了。</p><h3 id="go-proxy"><a href="#go-proxy" class="headerlink" title="go proxy"></a>go proxy</h3><p>如果一些依赖无法下载，可以使用go proxy</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">export GOPROXY=https://goproxy.io</span><br><span class="line"><span class="meta">#</span> 或者使用阿里的</span><br><span class="line">export GOPROXY=https://mirrors.aliyun.com/goproxy/</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;以前的go语言项目，代码依赖是个麻烦的事情。所有的项目必须放在GOPATH的src目录下，如果不同项目依赖同一个库的不同版本，就比较麻烦，不好管理。现在go语言终于有了go mod工具，可以像java一样管理依赖，工程代码可以放在其他目录了。&lt;/p&gt;
+&lt;h3 id=&quot;环境变
+      
+    
+    </summary>
+    
+      <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="golang" scheme="https://itwork.group/tags/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大多完美者，不过是想象</title>
+    <link href="https://itwork.group/%20%E5%A4%A7%E5%A4%9A%E5%AE%8C%E7%BE%8E%E8%80%85%EF%BC%8C%E4%B8%8D%E8%BF%87%E6%98%AF%E6%83%B3%E8%B1%A1/"/>
+    <id>https://itwork.group/ 大多完美者，不过是想象/</id>
+    <published>2018-12-26T06:10:42.000Z</published>
+    <updated>2020-01-11T02:05:48.626Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    很久之前，我在书摊上翻过一本书，内容是古诗词的鉴赏类的。因为当时手机没电，又无分文在身，就没买。但是之后很久我都对这本书耿耿于怀，不能忘记。然而我已经想不起书名了，即使我多次在各大购书网站搜索，也没有找到线索。在这过程中，也发现了不少优秀的书籍，但是总觉得记忆中的那本更胜一筹，若不再次读到那本书，实在难以释怀。至今已有大半年，每每想起，不是滋味。</p><p>​    今天又想起这件事，照例根据依稀记得的书中内容搜索此书，终于被我找到。发现与其他同类图书相比并无突出之处。不敢相信，反复确认，内容确是当初所见。但是为什么在我的印象里这本书是如此的完美呢，如此让我念念不忘呢？</p><p>​    原来，大多的完美，不过是想象罢了。不止是读书，生活中其他的事情都是如此。很多人总觉得自己的工作不如意，伴侣不完美，但是真的有这么差么。其实每个人所拥有的，何尝不是别人所羡慕的呢。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;​    很久之前，我在书摊上翻过一本书，内容是古诗词的鉴赏类的。因为当时手机没电，又无分文在身，就没买。但是之后很久我都对这本书耿耿于怀，不能忘记。然而我已经想不起书名了，即使我多次在各大购书网站搜索，也没有找到线索。在这过程中，也发现了不少优秀的书籍，但是总觉得记忆中的
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://itwork.group/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>人生道理记录</title>
+    <link href="https://itwork.group/%E4%BA%BA%E7%94%9F%E9%81%93%E7%90%86%E8%AE%B0%E5%BD%95/"/>
+    <id>https://itwork.group/人生道理记录/</id>
+    <published>2018-12-15T13:43:07.000Z</published>
+    <updated>2020-01-11T02:05:48.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>这篇记录生活中看到听到的道理，只记录内容不记录解释。模仿古人竹简刻字，时时回顾。都是至理名言呐。</p><ol><li>爱而知其恶，憎而知其善。    —— 出自《中庸》</li><li>大多完美者，不过是想象。——  我自己的生活感悟，文章写在了博客的生活菜单下。</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这篇记录生活中看到听到的道理，只记录内容不记录解释。模仿古人竹简刻字，时时回顾。都是至理名言呐。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;爱而知其恶，憎而知其善。    —— 出自《中庸》&lt;/li&gt;
+&lt;li&gt;大多完美者，不过是想象。——  我自己的生活感悟，文章写在了博客的生活菜单下。&lt;
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://itwork.group/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="道理" scheme="https://itwork.group/tags/%E9%81%93%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx配置文件服务器</title>
+    <link href="https://itwork.group/nginx%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <id>https://itwork.group/nginx配置文件服务器/</id>
+    <published>2018-09-25T05:24:36.000Z</published>
+    <updated>2020-01-11T02:05:48.628Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="nginx文件服务器，可以像在本地一样浏览查看"><a href="#nginx文件服务器，可以像在本地一样浏览查看" class="headerlink" title="nginx文件服务器，可以像在本地一样浏览查看"></a>nginx文件服务器，可以像在本地一样浏览查看</h4><p>在配置文件里添加</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">server &#123;</span><br><span class="line">    listen 8082;</span><br><span class="line">    server_name *.*.*.*; # 服务器的域名或者ip</span><br><span class="line">    charset utf-8;   # 避免中文乱码</span><br><span class="line">    root /home; # 存放文件的目录,如果使用nginx默认的服务器/usr/share之后的目录，会破坏默认的80端口                     服务器，所以这里使用home目录  </span><br><span class="line">    location / &#123;</span><br><span class="line">      autoindex on; # 索引,是否显示文件夹目录</span><br><span class="line">      autoindex_exact_size on; # 显示文件大小，打开关闭是单位为Mb和kb</span><br><span class="line">      autoindex_localtime on; # 显示文件时间</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure><p>浏览器访问对应端口就可以看到目录了，可以放一些文件，方便在其他设备上查看</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;nginx文件服务器，可以像在本地一样浏览查看&quot;&gt;&lt;a href=&quot;#nginx文件服务器，可以像在本地一样浏览查看&quot; class=&quot;headerlink&quot; title=&quot;nginx文件服务器，可以像在本地一样浏览查看&quot;&gt;&lt;/a&gt;nginx文件服务器，可以像在本地
+      
+    
+    </summary>
+    
+      <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="nginx" scheme="https://itwork.group/tags/nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker自动化部署应用</title>
+    <link href="https://itwork.group/docker%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E5%BA%94%E7%94%A8/"/>
+    <id>https://itwork.group/docker自动化部署应用/</id>
+    <published>2018-09-24T09:38:40.000Z</published>
+    <updated>2020-01-11T02:05:48.627Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="最简单的是使用第三方的服务，daocloud"><a href="#最简单的是使用第三方的服务，daocloud" class="headerlink" title="最简单的是使用第三方的服务，daocloud"></a>最简单的是使用第三方的服务，daocloud</h3><p>在daocloud里绑定github，创建项目，绑定github仓库。</p><p>代码仓库必须包含Dockerfile，这样每次推送代码到github，就会触发docker build 生成docker镜像。如果需要部署，在应用界面里面的发布选项中选择自动发布就行，这样每次推送代码应用就更新了。这是小型项目最简单的方案了。（有时候频繁发布可能获取不到最新的代码版本，感觉不对的时候可以对比界面上的代码提交版本号）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;最简单的是使用第三方的服务，daocloud&quot;&gt;&lt;a href=&quot;#最简单的是使用第三方的服务，daocloud&quot; class=&quot;headerlink&quot; title=&quot;最简单的是使用第三方的服务，daocloud&quot;&gt;&lt;/a&gt;最简单的是使用第三方的服务，daoclo
+      
+    
+    </summary>
+    
+    
+      <category term="docker" scheme="https://itwork.group/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>redis的事务的重点</title>
+    <link href="https://itwork.group/redis%E4%BA%8B%E5%8A%A1%E7%9A%84%E9%87%8D%E7%82%B9/"/>
+    <id>https://itwork.group/redis事务的重点/</id>
+    <published>2018-09-06T12:52:31.000Z</published>
+    <updated>2020-01-11T02:05:48.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>每一句单独执行的redis命令都是原子性的，不需要考虑高并发数据被修改的情况，如果必须要依次执行多条，需要使用事务。</p><h3 id="使用redis的事务，需要注意几点"><a href="#使用redis的事务，需要注意几点" class="headerlink" title="使用redis的事务，需要注意几点"></a>使用redis的事务，需要注意几点</h3><ol><li>分三个步骤，multi开启，然后一系列操作，进入队列，然后exec统一依次执行队列，不会乱顺序。</li><li>如果入队之后不想执行了，使用discard取消事务操作。</li><li>如果入队的命令输入错误，redis自动会取消事务，并且队列里之前进入的命令也不会执行。</li><li>如果入队完成之后，执行了exec，但是有命令执行的时候出错了(常见的是不是数字类型的值却incr自增)，那么仅仅是出错的命令失效，不影响队列里其他的命令的执行。</li></ol><h3 id="使用watch的事务"><a href="#使用watch的事务" class="headerlink" title="使用watch的事务"></a>使用watch的事务</h3><ol><li>事务里面某个命令在入队阶段报错，那么事务直接返回nil,所有命令不生效，且watch也失效</li><li>如果在队列之前使用了watch监视了某个字段key1，那么如果key1在multi之后，exec之前被其他客户端修改过，那么整个事务队列里面的命令都不生效，事务返回nil。且watch也失效</li><li>事务成功执行，watch自然也失效</li></ol><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>使用事务的时候，事务里的命令会组成队列在exec后统一依次执行。生效情况分两种：</p><ol><li>入队错误和watch的字段被其他客户端修改，队列里的命令全部不生效</li><li>exec后队列里的部分命令执行的时候出错，其他命令也会执行，且数据不发生回滚。所以redis的事务和其他关系型数据库的事务不一样。</li><li>一个客户端watch了一些字段后，只要执行了事务，那么不管事务是否成功执行，都会取消掉这个客户端对这些字段的监视，需要重新watch。</li></ol><p>大概就这些</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;每一句单独执行的redis命令都是原子性的，不需要考虑高并发数据被修改的情况，如果必须要依次执行多条，需要使用事务。&lt;/p&gt;
+&lt;h3 id=&quot;使用redis的事务，需要注意几点&quot;&gt;&lt;a href=&quot;#使用redis的事务，需要注意几点&quot; class=&quot;headerlink&quot;
+      
+    
+    </summary>
+    
+      <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="redis" scheme="https://itwork.group/tags/redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用docker部署nginx,并反向代理转发请求</title>
+    <link href="https://itwork.group/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2nginx-%E5%B9%B6%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E8%BD%AC%E5%8F%91%E8%AF%B7%E6%B1%82/"/>
+    <id>https://itwork.group/使用docker部署nginx-并反向代理转发请求/</id>
+    <published>2018-09-03T10:17:23.000Z</published>
+    <updated>2020-01-11T02:05:48.629Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="docker版nginx"><a href="#docker版nginx" class="headerlink" title="docker版nginx"></a>docker版nginx</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 在～目录创建web文件夹,结构为</span><br><span class="line"><span class="meta">#</span> .</span><br><span class="line"><span class="meta">#</span> └── web</span><br><span class="line"><span class="meta">#</span>    └── nginx</span><br><span class="line">        </span><br><span class="line"><span class="meta">#</span># 查询相关镜像</span><br><span class="line">docker search nginx </span><br><span class="line"><span class="meta">#</span>获取容器</span><br><span class="line">docker pull nginx</span><br><span class="line"><span class="meta">#</span>跑起来试试</span><br><span class="line">docker run -p 80:80 -d nginx</span><br><span class="line"><span class="meta">#</span>容器改个名字</span><br><span class="line">docker rename funny_hypatia nginx</span><br><span class="line"><span class="meta">#</span>进入～/web/nginx目录，复制配置文件到本地～/web/nginx</span><br><span class="line">docker cp nginx:/etc/nginx/nginx.conf .</span><br><span class="line"><span class="meta">#</span>复制基础网页文件到本地</span><br><span class="line">docker cp nginx:/usr/share/nginx/html ～/web/nginx/www</span><br><span class="line"><span class="meta">#</span> 现在调整目录结构为</span><br><span class="line"><span class="meta">#</span> └── web</span><br><span class="line"><span class="meta">#</span>     ├── nginx</span><br><span class="line"><span class="meta">#</span>     │   ├── conf</span><br><span class="line"><span class="meta">#</span>     │   │   ├── my_nginx.conf</span><br><span class="line"><span class="meta">#</span>     │   │   └── nginx.conf</span><br><span class="line"><span class="meta">#</span>     │   └── log</span><br><span class="line"><span class="meta">#</span>     └── www</span><br><span class="line"><span class="meta">#</span>         └── html</span><br><span class="line"><span class="meta">#</span>             ├── 50x.html</span><br><span class="line"><span class="meta">#</span>             └── index.html</span><br><span class="line"></span><br><span class="line">docker run -d -p 80:80 --name nginx -v ~/web/www/html:/usr/share/nginx/html -v ~/web/nginx/conf/my_nginx.conf:/etc/nginx/nginx.conf -v ~/web/nginx/log:/var/log/nginx nginx</span><br></pre></td></tr></table></figure><h3 id="反向代理"><a href="#反向代理" class="headerlink" title="反向代理"></a>反向代理</h3><p>在my_nginx.conf 的http里加上配置，这样配置浏览器访问这台机器，内容显示为百度，测试通过。</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">server &#123;</span><br><span class="line">    listen 80;</span><br><span class="line">    server_name  localhost;</span><br><span class="line"> </span><br><span class="line">    location / &#123;</span><br><span class="line">        proxy_pass  http://itwork.group;</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>注意server监听的端口，在开启nginx容器的时候需要做端口映射到宿主机上</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;docker版nginx&quot;&gt;&lt;a href=&quot;#docker版nginx&quot; class=&quot;headerlink&quot; title=&quot;docker版nginx&quot;&gt;&lt;/a&gt;docker版nginx&lt;/h3&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="docker" scheme="https://itwork.group/tags/docker/"/>
+    
+      <category term="nginx" scheme="https://itwork.group/tags/nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ssh连接长时间闲置不断线</title>
+    <link href="https://itwork.group/ssh%E8%BF%9E%E6%8E%A5%E9%95%BF%E6%97%B6%E9%97%B4%E9%97%B2%E7%BD%AE%E4%B8%8D%E6%96%AD%E7%BA%BF/"/>
+    <id>https://itwork.group/ssh连接长时间闲置不断线/</id>
+    <published>2018-09-03T10:14:49.000Z</published>
+    <updated>2020-01-11T02:05:48.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>ssh 连接上长时间空闲不掉线，省去重新登陆的麻烦事情。在本地创建 ～/.ssh/config 文件，Host可以写全指定主机，ServerAliveInterval是多久发心跳确认连接，ServerAliveCountMax为保持连接的最大客户端数量。</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Host *</span><br><span class="line">ServerAliveInterval 60 </span><br><span class="line">ServerAliveCountMax 16</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ssh 连接上长时间空闲不掉线，省去重新登陆的麻烦事情。在本地创建 ～/.ssh/config 文件，Host可以写全指定主机，ServerAliveInterval是多久发心跳确认连接，ServerAliveCountMax为保持连接的最大客户端数量。&lt;/p&gt;
+&lt;figu
+      
+    
+    </summary>
+    
+      <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="ssh" scheme="https://itwork.group/tags/ssh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ubuntu安装社区版docker-ce</title>
+    <link href="https://itwork.group/ubuntu%E5%AE%89%E8%A3%85%E7%A4%BE%E5%8C%BA%E7%89%88docker-ce/"/>
+    <id>https://itwork.group/ubuntu安装社区版docker-ce/</id>
+    <published>2018-09-03T10:11:50.000Z</published>
+    <updated>2020-01-11T02:05:48.628Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="服务器基本配置"><a href="#服务器基本配置" class="headerlink" title="服务器基本配置"></a>服务器基本配置</h3><p>想都不用想，先更新一发</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt update</span><br></pre></td></tr></table></figure><p>安装新版的docker，不使用自带的低版本docker-io，dock er-ce为社区版</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 添加https支持</span><br><span class="line">sudo apt install apt-transport-https ca-certificates curl software-properties-common</span><br><span class="line"><span class="meta">#</span>添加软件安装源</span><br><span class="line">curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -</span><br><span class="line">sudo apt update</span><br><span class="line">apt-cache policy docker-ce</span><br><span class="line"><span class="meta">#</span># 设置版本为stable的</span><br><span class="line">sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"</span><br><span class="line">sudo apt-get install docker-ce</span><br><span class="line">docker</span><br></pre></td></tr></table></figure><h4 id="国内环境可能下载比较慢，这样搞"><a href="#国内环境可能下载比较慢，这样搞" class="headerlink" title="国内环境可能下载比较慢，这样搞"></a>国内环境可能下载比较慢，这样搞</h4><p>阿里云脚本安装</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun</span><br></pre></td></tr></table></figure><p>阿里云镜像手动安装</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> step 1: 安装必要的一些系统工具</span><br><span class="line">sudo apt-get update</span><br><span class="line">sudo apt-get -y install apt-transport-https ca-certificates curl software-properties-common</span><br><span class="line"><span class="meta">#</span> step 2: 安装GPG证书</span><br><span class="line">curl -fsSL http://mirrors.aliyun.com/docker-ce/linux/ubuntu/gpg | sudo apt-key add -</span><br><span class="line"><span class="meta">#</span> Step 3: 写入软件源信息</span><br><span class="line">sudo add-apt-repository "deb [arch=amd64] http://mirrors.aliyun.com/docker-ce/linux/ubuntu $(lsb_release -cs) stable"</span><br><span class="line"><span class="meta">#</span> Step 4: 更新并安装 Docker-CE</span><br><span class="line">sudo apt-get -y update</span><br><span class="line">sudo apt-get -y install docker-ce</span><br></pre></td></tr></table></figure><h4 id="创建docker用户组，并添加当前用户来使用权限"><a href="#创建docker用户组，并添加当前用户来使用权限" class="headerlink" title="创建docker用户组，并添加当前用户来使用权限"></a>创建docker用户组，并添加当前用户来使用权限</h4><p>执行docker命令，显示connect: permission denied，那么创建docker用户组比较科学，直接sudo 不符合安全规范。</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 创建用户组</span><br><span class="line">sudo groupadd docker </span><br><span class="line"><span class="meta">#</span> 当前用户添加到docker用户组</span><br><span class="line">sudo usermod -aG docker $USER</span><br></pre></td></tr></table></figure><h4 id="docker镜像源修改"><a href="#docker镜像源修改" class="headerlink" title="docker镜像源修改"></a>docker镜像源修改</h4><p>创建    /etc/docker/daemon.json文件，内容为</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">&quot;registry-mirrors&quot;: [&quot;http://hub-mirror.c.163.com&quot;]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span> 重新加载配置文件</span><br><span class="line">sudo systemctl daemon-reload</span><br><span class="line"><span class="meta">#</span> 重启docker</span><br><span class="line">sudo systemctl restart docker</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;服务器基本配置&quot;&gt;&lt;a href=&quot;#服务器基本配置&quot; class=&quot;headerlink&quot; title=&quot;服务器基本配置&quot;&gt;&lt;/a&gt;服务器基本配置&lt;/h3&gt;&lt;p&gt;想都不用想，先更新一发&lt;/p&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;t
+      
+    
+    </summary>
+    
+      <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="docker" scheme="https://itwork.group/tags/docker/"/>
+    
+      <category term="ubuntu" scheme="https://itwork.group/tags/ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用hexo写博客的一些坑</title>
+    <link href="https://itwork.group/%E7%94%A8hexo%E5%86%99%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9D%91/"/>
+    <id>https://itwork.group/用hexo写博客的一些坑/</id>
+    <published>2018-09-03T10:00:18.000Z</published>
+    <updated>2020-01-11T02:05:48.629Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="hexo的分类和标签是两回事"><a href="#hexo的分类和标签是两回事" class="headerlink" title="hexo的分类和标签是两回事"></a>hexo的分类和标签是两回事</h3><ol><li><p>一篇文章的Tags可以有多个，是平级的，都会在标签词云里显示,多个标签可以写成数组</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Tags: [hexo,博客]</span><br></pre></td></tr></table></figure></li><li><p>一篇文章的分类就不能有多个平级的了，如果写成数组，就会变成多级的</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;hexo的分类和标签是两回事&quot;&gt;&lt;a href=&quot;#hexo的分类和标签是两回事&quot; class=&quot;headerlink&quot; title=&quot;hexo的分类和标签是两回事&quot;&gt;&lt;/a&gt;hexo的分类和标签是两回事&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;一篇文章的Tags可以有多
+      
+    
+    </summary>
+    
+      <category term="工具" scheme="https://itwork.group/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="hexo" scheme="https://itwork.group/tags/hexo/"/>
+    
+      <category term="博客" scheme="https://itwork.group/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vagrant集成开发环境的巧妙使用</title>
+    <link href="https://itwork.group/Vagrant%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E7%9A%84%E5%B7%A7%E5%A6%99%E4%BD%BF%E7%94%A8/"/>
+    <id>https://itwork.group/Vagrant集成开发环境的巧妙使用/</id>
+    <published>2018-08-10T05:56:19.000Z</published>
+    <updated>2020-01-11T02:05:48.627Z</updated>
+    
+    <content type="html"><![CDATA[<p>vagrant就是一个虚拟机，里面可以部署开发环境，将本地目录挂载上去后，可以在里面写代码，跑服务。换机器开发的时候，只要携带虚拟机文件和Vagrantfile配置文件就行。想法就是这样，以后换机器开发就不用麻烦的搭建开发环境了。。。</p><p>一顿操作猛如虎，其实是个二百五。。。事实证明，在虚拟机里做开发，尤其是编译，超级慢，超级慢。。。而且是在我已经在Vagrantfile里配置了虚拟机的cpu和内存和宿主机一样，或者略低的前提下，也是非常慢的。如果用默认的内存，编译甚至会出现out of memory 的异常。。所以, vagrant做测试环境还行，做开发环境的话，实验证明还是不太适合的。。除非是很小的项目。</p><p>但是如果在windows上，因为shell命令不够完善，可以开一个vagrant虚拟机，然后用vscode的terminal去连接，这样界面就很好看了，windows上的shell界面实在看不习惯。。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;vagrant就是一个虚拟机，里面可以部署开发环境，将本地目录挂载上去后，可以在里面写代码，跑服务。换机器开发的时候，只要携带虚拟机文件和Vagrantfile配置文件就行。想法就是这样，以后换机器开发就不用麻烦的搭建开发环境了。。。&lt;/p&gt;
+&lt;p&gt;一顿操作猛如虎，其实是个
+      
+    
+    </summary>
+    
+      <category term="工具" scheme="https://itwork.group/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="vagrant" scheme="https://itwork.group/tags/vagrant/"/>
+    
+      <category term="windows" scheme="https://itwork.group/tags/windows/"/>
+    
+      <category term="shell" scheme="https://itwork.group/tags/shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vagrant初体验</title>
+    <link href="https://itwork.group/Vagrant%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <id>https://itwork.group/Vagrant初体验/</id>
+    <published>2018-08-01T09:53:44.000Z</published>
+    <updated>2020-01-11T02:05:48.626Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Vagrant初体验"><a href="#Vagrant初体验" class="headerlink" title="Vagrant初体验"></a>Vagrant初体验</h2><p>想要配一套集成开发环境，这样不会影响我电脑本地的其他配置，选择了Vagrant。</p><h4 id="准备材料"><a href="#准备材料" class="headerlink" title="准备材料"></a>准备材料</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">提示</span><br><span class="line">Vagrant box: 一个打包好的操作系统，是一个后缀名为 `.box` 的文件，其实是一个压缩包，里面包含了 Vagrant 的配置信息和 VirtualBox 的虚拟机镜像文件。说白了就是个虚拟机系统文件，跟装windows虚拟机的ghost类似</span><br></pre></td></tr></table></figure><ol><li>VirtualBox安装包 <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" rel="noopener">https://www.virtualbox.org/wiki/Downloads</a></li><li>Vagrant安装包 <a href="https://www.vagrantup.com/downloads.html" target="_blank" rel="noopener">https://www.vagrantup.com/downloads.html</a></li><li>Vagrant box 文件 <a href="http://www.vagrantbox.es/" target="_blank" rel="noopener">http://www.vagrantbox.es/</a> ，官网下载慢点话，网上有人分享了一个<a href="https://pan.baidu.com/s/1wJCeWEyxKQLVPi1IH1IlYg" target="_blank" rel="noopener">https://pan.baidu.com/s/1wJCeWEyxKQLVPi1IH1IlYg</a> ，我也是用的这个 ubuntu-server-16.04</li></ol><h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><ol><li><p>安装 VirtualBox，因为Vagrant的启动依赖于它。这是前提。如果是mac系统，可能需要到系统偏好设置-&gt;安全性与隐私里打开相关权限。不然安装失败。</p></li><li><p>这一步你已经成功安装了VirtualBox，然后进到你的开发目录下</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mkdir vagrant   ###新建文件夹</span><br></pre></td></tr></table></figure></li><li><p>把下载的box文件放到vagrant目录下，在vagrant下执行命令，添加前面下载的 <code>box</code> 到vagrant<br>命令格式：<code>vagrant box add &lt;取个本地box名称&gt; &lt;box 文件&gt;</code></p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span># 添加</span><br><span class="line">vagrant box add ubuntu-server-16.04 ubuntu-server-16.04-amd64-vagrant.box</span><br><span class="line"><span class="meta">#</span>#查看是否添加成功</span><br><span class="line">vagrant box list</span><br></pre></td></tr></table></figure></li><li><p>初始化,这个时候会在当前目录生成配置文件Vagrantfile</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vagrant init 'ubuntu-server-16.04'</span><br></pre></td></tr></table></figure></li><li><p>启动和连接虚拟机</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span>#启动</span><br><span class="line">vagrant up </span><br><span class="line"><span class="meta">#</span># 连接</span><br><span class="line">vagrant ssh</span><br></pre></td></tr></table></figure></li></ol><p>####常用命令</p><p>如果有多个box，指定box的操作就在对应命令后加box名字</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">vagrant init      # 初始化，生成Vagrantfile</span><br><span class="line"></span><br><span class="line">vagrant up        # 启动虚拟机</span><br><span class="line">vagrant halt      # 关闭虚拟机</span><br><span class="line">vagrant reload    # 重启虚拟机</span><br><span class="line">vagrant ssh       # SSH 至虚拟机</span><br><span class="line">vagrant suspend   # 挂起虚拟机</span><br><span class="line">vagrant resume    # 唤醒虚拟机</span><br><span class="line">vagrant status    # 查看虚拟机运行状态</span><br><span class="line">vagrant destroy   # 销毁当前虚拟机</span><br><span class="line">vagrant package --output myvagrant_image.box # 将当前虚拟机打成镜像</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span>box管理命令</span><br><span class="line">vagrant box list    # 查看本地box列表</span><br><span class="line">vagrant box add     # 添加box到列表</span><br><span class="line">vagrant box remove  # 从box列表移除 </span><br><span class="line"></span><br><span class="line"><span class="meta">#</span> 修改了配置需要启动或重启</span><br><span class="line">vagrant provision</span><br><span class="line">vagrant reload --provision</span><br></pre></td></tr></table></figure><h4 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h4><p>虚拟机的主要配置文件是Vagrantfile，第一次init后自动生成，可以自己修改。复制开发环境给别人时只要给Vagrantfile和box文件就行。具体的Vagrantfile还得细细学习。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Vagrant初体验&quot;&gt;&lt;a href=&quot;#Vagrant初体验&quot; class=&quot;headerlink&quot; title=&quot;Vagrant初体验&quot;&gt;&lt;/a&gt;Vagrant初体验&lt;/h2&gt;&lt;p&gt;想要配一套集成开发环境，这样不会影响我电脑本地的其他配置，选择了Vagran
+      
+    
+    </summary>
+    
+      <category term="工具" scheme="https://itwork.group/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="vagrant" scheme="https://itwork.group/tags/vagrant/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql开启远程访问</title>
+    <link href="https://itwork.group/mysql%E5%BC%80%E5%90%AF%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE/"/>
+    <id>https://itwork.group/mysql开启远程访问/</id>
+    <published>2017-12-06T07:58:02.000Z</published>
+    <updated>2020-01-11T02:05:48.627Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="首先查看3306端口是不是开启了"><a href="#首先查看3306端口是不是开启了" class="headerlink" title="首先查看3306端口是不是开启了"></a>首先查看3306端口是不是开启了</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">netstat -an|grep3306</span><br></pre></td></tr></table></figure><p>没开启就要修改文件，打开</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf</span><br></pre></td></tr></table></figure><p>将里面的</p><p>bind-address        = 127.0.0.1  注释掉</p><p>然后重启mysql    </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/etc/init.d/mysql restart</span><br></pre></td></tr></table></figure><h4 id="给mysql开启外链访问权限"><a href="#给mysql开启外链访问权限" class="headerlink" title="给mysql开启外链访问权限"></a>给mysql开启外链访问权限</h4><p>进入mysql命令</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql -u root -p</span><br></pre></td></tr></table></figure><p>输入</p><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">grant</span> all <span class="keyword">privileges</span> <span class="keyword">on</span> *.* <span class="keyword">to</span> <span class="string">'root'</span> @<span class="string">'%'</span> <span class="keyword">identified</span> <span class="keyword">by</span> *****(密码)</span><br></pre></td></tr></table></figure><p>改好后刷新权限信息：</p><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">flush</span> <span class="keyword">privileges</span>;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;首先查看3306端口是不是开启了&quot;&gt;&lt;a href=&quot;#首先查看3306端口是不是开启了&quot; class=&quot;headerlink&quot; title=&quot;首先查看3306端口是不是开启了&quot;&gt;&lt;/a&gt;首先查看3306端口是不是开启了&lt;/h4&gt;&lt;figure class=&quot;hi
+      
+    
+    </summary>
+    
+      <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="mysql" scheme="https://itwork.group/tags/mysql/"/>
+    
+  </entry>
+  
+</feed>
