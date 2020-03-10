@@ -135,9 +135,9 @@
       <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
-      <category term="vagrant" scheme="https://itwork.group/tags/vagrant/"/>
-    
       <category term="docker" scheme="https://itwork.group/tags/docker/"/>
+    
+      <category term="vagrant" scheme="https://itwork.group/tags/vagrant/"/>
     
       <category term="k8s" scheme="https://itwork.group/tags/k8s/"/>
     
