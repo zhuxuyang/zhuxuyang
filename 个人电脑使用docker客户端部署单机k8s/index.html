@@ -2,9 +2,9 @@
 <html>
 <head><meta name="generator" content="Hexo 3.8.0">
   <meta charset="utf-8">
-  <title>ssh连接长时间闲置不断线 | IT工作组</title>
-  <meta name="keywords" content=" ssh ">
-  <meta name="description" content="ssh连接长时间闲置不断线 | IT工作组">
+  <title>个人电脑使用docker客户端部署单机k8s | IT工作组</title>
+  <meta name="keywords" content="">
+  <meta name="description" content="个人电脑使用docker客户端部署单机k8s | IT工作组">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="阳阳 hexo 个人博客笔记">
 <meta name="keywords" content="阳阳 个人笔记 个人博客">
@@ -389,9 +389,9 @@
 </aside>
 <div class="post">
     <div class="pjax">
-        <article id="post-ssh连接长时间闲置不断线" class="article article-type-post" itemscope="" itemprop="blogPost">
+        <article id="post-个人电脑使用docker客户端部署单机k8s" class="article article-type-post" itemscope="" itemprop="blogPost">
     
-        <h1 class="article-title">ssh连接长时间闲置不断线</h1>
+        <h1 class="article-title">个人电脑使用docker客户端部署单机k8s</h1>
     
     <div class="article-meta">
         
@@ -404,16 +404,10 @@
         </span>
         
         
-        <span class="tag">
-            
-            <a class="color4">ssh</a>
-            
-        </span>
-        
     </div>
     <div class="article-meta">
         
-        创建时间:<time class="date" title="更新时间: 2020-01-11 10:05:48">2018-09-03 18:14</time>
+        创建时间:<time class="date" title="更新时间: 2020-09-26 18:23:39">2020-07-26 11:10</time>
         
     </div>
     <div class="article-meta">
@@ -435,7 +429,7 @@
     
     <div class="toc-ref">
     
-        
+        <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#docker-客户端安装k8s"><span class="toc-text">docker 客户端安装k8s</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#然后安装k8s的dashboard"><span class="toc-text">然后安装k8s的dashboard</span></a></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -451,8 +445,10 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>ssh 连接上长时间空闲不掉线，省去重新登陆的麻烦事情。在本地创建 ～/.ssh/config 文件，Host可以写全指定主机，ServerAliveInterval是多久发心跳确认连接，ServerAliveCountMax为保持连接的最大客户端数量。</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Host *</span><br><span class="line">ServerAliveInterval 60 </span><br><span class="line">ServerAliveCountMax 16</span><br></pre></td></tr></table></figure>
+        <h4 id="docker-客户端安装k8s"><a href="#docker-客户端安装k8s" class="headerlink" title="docker 客户端安装k8s"></a>docker 客户端安装k8s</h4><p>docker 客户端自带的k8s 工具一直在starting<br>这是因为对应的包下不下来<br>Kubernetes   v1.18.8 用的docker镜像是下面这些，手动下载就行</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line">docker pull naison/kube-proxy:v1.18.8</span><br><span class="line">docker pull naison/kube-apiserver:v1.18.8</span><br><span class="line">docker pull naison/kube-controller-manager:v1.18.8</span><br><span class="line">docker pull naison/kube-scheduler:v1.18.8</span><br><span class="line">docker pull naison/weave-npc:2.7.0</span><br><span class="line">docker pull naison/weave-kube:2.7.0</span><br><span class="line">docker pull naison/pause:3.2</span><br><span class="line">docker pull naison/coredns:1.6.7</span><br><span class="line">docker pull naison/etcd:3.4.3-0</span><br><span class="line"> </span><br><span class="line">docker tag  docker.io/naison/kube-proxy:v1.18.8                 k8s.gcr.io/kube-proxy:v1.18.8</span><br><span class="line">docker tag  docker.io/naison/kube-apiserver:v1.18.8             k8s.gcr.io/kube-apiserver:v1.18.8</span><br><span class="line">docker tag  docker.io/naison/kube-controller-manager:v1.18.8    k8s.gcr.io/kube-controller-manager:v1.18.8</span><br><span class="line">docker tag  docker.io/naison/kube-scheduler:v1.18.8             k8s.gcr.io/kube-scheduler:v1.18.8</span><br><span class="line">docker tag  docker.io/naison/weave-npc:2.7.0                    docker.io/weaveworks/weave-npc:2.7.0</span><br><span class="line">docker tag  docker.io/naison/weave-kube:2.7.0                   docker.io/weaveworks/weave-kube:2.7.0</span><br><span class="line">docker tag  docker.io/naison/pause:3.2                          k8s.gcr.io/pause:3.2</span><br><span class="line">docker tag  docker.io/naison/coredns:1.6.7                      k8s.gcr.io/coredns:1.6.7</span><br><span class="line">docker tag  docker.io/naison/etcd:3.4.3-0                       k8s.gcr.io/etcd:3.4.3-0</span><br><span class="line"> </span><br><span class="line">docker image rm  docker.io/naison/kube-proxy:v1.18.8</span><br><span class="line">docker image rm  docker.io/naison/kube-apiserver:v1.18.8</span><br><span class="line">docker image rm  docker.io/naison/kube-controller-manager:v1.18.8</span><br><span class="line">docker image rm  docker.io/naison/kube-scheduler:v1.18.8</span><br><span class="line">docker image rm  docker.io/naison/weave-npc:2.7.0</span><br><span class="line">docker image rm  docker.io/naison/weave-kube:2.7.0</span><br><span class="line">docker image rm  docker.io/naison/pause:3.2</span><br><span class="line">docker image rm  docker.io/naison/coredns:1.6.7</span><br><span class="line">docker image rm  docker.io/naison/etcd:3.4.3-0</span><br></pre></td></tr></table></figure>
+<h4 id="然后安装k8s的dashboard"><a href="#然后安装k8s的dashboard" class="headerlink" title="然后安装k8s的dashboard"></a>然后安装k8s的dashboard</h4><p><a href="https://kubernetes.io/zh/docs/tasks/access-application-cluster/web-ui-dashboard/" target="_blank" rel="noopener">https://kubernetes.io/zh/docs/tasks/access-application-cluster/web-ui-dashboard/</a></p>
+<p><a href="https://www.qikqiak.com/k8s-book/docs/17.%E5%AE%89%E8%A3%85%20Dashboard%20%E6%8F%92%E4%BB%B6.html" target="_blank" rel="noopener">https://www.qikqiak.com/k8s-book/docs/17.%E5%AE%89%E8%A3%85%20Dashboard%20%E6%8F%92%E4%BB%B6.html</a></p>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论。邮箱[imzhuxuyang@gmail.com] </span>
@@ -462,12 +458,12 @@
 
 
 <div class="article_copyright">
-    <p><span class="copy-title">文章标题:</span>ssh连接长时间闲置不断线</p>
+    <p><span class="copy-title">文章标题:</span>个人电脑使用docker客户端部署单机k8s</p>
     
     <p><span class="copy-title">本文作者:</span><a title="阳阳">阳阳</a></p>
-    <p><span class="copy-title">发布时间:</span>2018-09-03, 18:14:49</p>
-    <p><span class="copy-title">最后更新:</span>2020-01-11, 10:05:48</p>
-    <span class="copy-title">原始链接:</span><a class="post-url" href="/ssh连接长时间闲置不断线/" title="ssh连接长时间闲置不断线">https://itwork.group/ssh连接长时间闲置不断线/</a>
+    <p><span class="copy-title">发布时间:</span>2020-07-26, 11:10:42</p>
+    <p><span class="copy-title">最后更新:</span>2020-09-26, 18:23:39</p>
+    <span class="copy-title">原始链接:</span><a class="post-url" href="/个人电脑使用docker客户端部署单机k8s/" title="个人电脑使用docker客户端部署单机k8s">https://itwork.group/个人电脑使用docker客户端部署单机k8s/</a>
     <p>
         <span class="copy-title">版权声明:</span><i class="fa fa-creative-commons"></i> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="CC BY-NC-SA 4.0 International" target="_blank">"署名-非商用-相同方式共享 4.0"</a> 转载请保留原文链接及作者。
     </p>
