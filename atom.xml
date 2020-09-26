@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://itwork.group/"/>
-  <updated>2020-09-26T10:23:39.781Z</updated>
+  <updated>2020-09-26T11:22:31.730Z</updated>
   <id>https://itwork.group/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://itwork.group/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8docker%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%83%A8%E7%BD%B2%E5%8D%95%E6%9C%BAk8s/"/>
     <id>https://itwork.group/个人电脑使用docker客户端部署单机k8s/</id>
     <published>2020-07-26T03:10:42.000Z</published>
-    <updated>2020-09-26T10:23:39.781Z</updated>
+    <updated>2020-09-26T11:22:31.730Z</updated>
     
     <content type="html"><![CDATA[<h4 id="docker-客户端安装k8s"><a href="#docker-客户端安装k8s" class="headerlink" title="docker 客户端安装k8s"></a>docker 客户端安装k8s</h4><p>docker 客户端自带的k8s 工具一直在starting<br>这是因为对应的包下不下来<br>Kubernetes   v1.18.8 用的docker镜像是下面这些，手动下载就行</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line">docker pull naison/kube-proxy:v1.18.8</span><br><span class="line">docker pull naison/kube-apiserver:v1.18.8</span><br><span class="line">docker pull naison/kube-controller-manager:v1.18.8</span><br><span class="line">docker pull naison/kube-scheduler:v1.18.8</span><br><span class="line">docker pull naison/weave-npc:2.7.0</span><br><span class="line">docker pull naison/weave-kube:2.7.0</span><br><span class="line">docker pull naison/pause:3.2</span><br><span class="line">docker pull naison/coredns:1.6.7</span><br><span class="line">docker pull naison/etcd:3.4.3-0</span><br><span class="line"> </span><br><span class="line">docker tag  docker.io/naison/kube-proxy:v1.18.8                 k8s.gcr.io/kube-proxy:v1.18.8</span><br><span class="line">docker tag  docker.io/naison/kube-apiserver:v1.18.8             k8s.gcr.io/kube-apiserver:v1.18.8</span><br><span class="line">docker tag  docker.io/naison/kube-controller-manager:v1.18.8    k8s.gcr.io/kube-controller-manager:v1.18.8</span><br><span class="line">docker tag  docker.io/naison/kube-scheduler:v1.18.8             k8s.gcr.io/kube-scheduler:v1.18.8</span><br><span class="line">docker tag  docker.io/naison/weave-npc:2.7.0                    docker.io/weaveworks/weave-npc:2.7.0</span><br><span class="line">docker tag  docker.io/naison/weave-kube:2.7.0                   docker.io/weaveworks/weave-kube:2.7.0</span><br><span class="line">docker tag  docker.io/naison/pause:3.2                          k8s.gcr.io/pause:3.2</span><br><span class="line">docker tag  docker.io/naison/coredns:1.6.7                      k8s.gcr.io/coredns:1.6.7</span><br><span class="line">docker tag  docker.io/naison/etcd:3.4.3-0                       k8s.gcr.io/etcd:3.4.3-0</span><br><span class="line"> </span><br><span class="line">docker image rm  docker.io/naison/kube-proxy:v1.18.8</span><br><span class="line">docker image rm  docker.io/naison/kube-apiserver:v1.18.8</span><br><span class="line">docker image rm  docker.io/naison/kube-controller-manager:v1.18.8</span><br><span class="line">docker image rm  docker.io/naison/kube-scheduler:v1.18.8</span><br><span class="line">docker image rm  docker.io/naison/weave-npc:2.7.0</span><br><span class="line">docker image rm  docker.io/naison/weave-kube:2.7.0</span><br><span class="line">docker image rm  docker.io/naison/pause:3.2</span><br><span class="line">docker image rm  docker.io/naison/coredns:1.6.7</span><br><span class="line">docker image rm  docker.io/naison/etcd:3.4.3-0</span><br></pre></td></tr></table></figure><h4 id="然后安装k8s的dashboard"><a href="#然后安装k8s的dashboard" class="headerlink" title="然后安装k8s的dashboard"></a>然后安装k8s的dashboard</h4><p><a href="https://kubernetes.io/zh/docs/tasks/access-application-cluster/web-ui-dashboard/" target="_blank" rel="noopener">https://kubernetes.io/zh/docs/tasks/access-application-cluster/web-ui-dashboard/</a></p><p><a href="https://www.qikqiak.com/k8s-book/docs/17.%E5%AE%89%E8%A3%85%20Dashboard%20%E6%8F%92%E4%BB%B6.html" target="_blank" rel="noopener">https://www.qikqiak.com/k8s-book/docs/17.%E5%AE%89%E8%A3%85%20Dashboard%20%E6%8F%92%E4%BB%B6.html</a></p>]]></content>
     
@@ -158,9 +158,9 @@
       <category term="后端服务器" scheme="https://itwork.group/categories/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
-      <category term="vagrant" scheme="https://itwork.group/tags/vagrant/"/>
-    
       <category term="docker" scheme="https://itwork.group/tags/docker/"/>
+    
+      <category term="vagrant" scheme="https://itwork.group/tags/vagrant/"/>
     
       <category term="k8s" scheme="https://itwork.group/tags/k8s/"/>
     
