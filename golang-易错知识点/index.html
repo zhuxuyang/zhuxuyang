@@ -2,9 +2,9 @@
 <html>
 <head><meta name="generator" content="Hexo 3.8.0">
   <meta charset="utf-8">
-  <title>nginx配置文件服务器 | IT工作组</title>
-  <meta name="keywords" content=" nginx ">
-  <meta name="description" content="nginx配置文件服务器 | IT工作组">
+  <title>golang 易错知识点 | IT工作组</title>
+  <meta name="keywords" content="">
+  <meta name="description" content="golang 易错知识点 | IT工作组">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="阳阳 hexo 个人博客笔记">
 <meta name="keywords" content="阳阳 个人笔记 个人博客">
@@ -399,31 +399,19 @@
 </aside>
 <div class="post">
     <div class="pjax">
-        <article id="post-nginx配置文件服务器" class="article article-type-post" itemscope="" itemprop="blogPost">
+        <article id="post-golang-易错知识点" class="article article-type-post" itemscope="" itemprop="blogPost">
     
-        <h1 class="article-title">nginx配置文件服务器</h1>
+        <h1 class="article-title">golang 易错知识点</h1>
     
     <div class="article-meta">
         
         
         
-        <span class="book">
-            
-                <a data-rel="后端服务器">后端服务器</a>
-            
-        </span>
-        
-        
-        <span class="tag">
-            
-            <a class="color1">nginx</a>
-            
-        </span>
         
     </div>
     <div class="article-meta">
         
-        创建时间:<time class="date" title="更新时间: 2020-01-11 10:05:48">2018-09-25 13:24</time>
+        创建时间:<time class="date" title="更新时间: 2021-06-19 11:57:24">2021-06-19 11:52</time>
         
     </div>
     <div class="article-meta">
@@ -445,7 +433,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#nginx文件服务器，可以像在本地一样浏览查看"><span class="toc-text">nginx文件服务器，可以像在本地一样浏览查看</span></a></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#变量的比较"><span class="toc-text">变量的比较</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#函数和方法"><span class="toc-text">函数和方法</span></a></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -461,9 +449,9 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h4 id="nginx文件服务器，可以像在本地一样浏览查看"><a href="#nginx文件服务器，可以像在本地一样浏览查看" class="headerlink" title="nginx文件服务器，可以像在本地一样浏览查看"></a>nginx文件服务器，可以像在本地一样浏览查看</h4><p>在配置文件里添加</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">server &#123;</span><br><span class="line">    listen 8082;</span><br><span class="line">    server_name *.*.*.*; # 服务器的域名或者ip</span><br><span class="line">    charset utf-8;   # 避免中文乱码</span><br><span class="line">    root /home; # 存放文件的目录,如果使用nginx默认的服务器/usr/share之后的目录，会破坏默认的80端口                    										 服务器，所以这里使用home目录  </span><br><span class="line">    location / &#123;</span><br><span class="line">      autoindex on; # 索引,是否显示文件夹目录</span><br><span class="line">      autoindex_exact_size on; # 显示文件大小，打开关闭是单位为Mb和kb</span><br><span class="line">      autoindex_localtime on; # 显示文件时间</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
-<p>浏览器访问对应端口就可以看到目录了，可以放一些文件，方便在其他设备上查看</p>
+        <h3 id="变量的比较"><a href="#变量的比较" class="headerlink" title="变量的比较"></a>变量的比较</h3><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</span><br><span class="line">  <span class="keyword">var</span> x <span class="keyword">interface</span>&#123;&#125;</span><br><span class="line">  <span class="keyword">var</span> y <span class="keyword">interface</span>&#123;&#125; = []<span class="keyword">int</span>&#123;<span class="number">3</span>, <span class="number">5</span>&#125;</span><br><span class="line">  _ = x == x</span><br><span class="line">  _ = x == y</span><br><span class="line">  _ = y == y <span class="comment">// 会panic</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="函数和方法"><a href="#函数和方法" class="headerlink" title="函数和方法"></a>函数和方法</h3><p>方法可以看作是函数的语法糖，方法的所有者可以看作是函数的第一个参数。</p>
+<p>所以方法是指针还是引用，和函数的参数一样，会涉及到函数内修改是否会影响到函数外。</p>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论。邮箱[imzhuxuyang@gmail.com] </span>
@@ -473,12 +461,12 @@
 
 
 <div class="article_copyright">
-    <p><span class="copy-title">文章标题:</span>nginx配置文件服务器</p>
+    <p><span class="copy-title">文章标题:</span>golang 易错知识点</p>
     
     <p><span class="copy-title">本文作者:</span><a title="阳阳">阳阳</a></p>
-    <p><span class="copy-title">发布时间:</span>2018-09-25, 13:24:36</p>
-    <p><span class="copy-title">最后更新:</span>2020-01-11, 10:05:48</p>
-    <span class="copy-title">原始链接:</span><a class="post-url" href="/nginx配置文件服务器/" title="nginx配置文件服务器">https://itwork.group/nginx配置文件服务器/</a>
+    <p><span class="copy-title">发布时间:</span>2021-06-19, 11:52:04</p>
+    <p><span class="copy-title">最后更新:</span>2021-06-19, 11:57:24</p>
+    <span class="copy-title">原始链接:</span><a class="post-url" href="/golang-易错知识点/" title="golang 易错知识点">https://itwork.group/golang-易错知识点/</a>
     <p>
         <span class="copy-title">版权声明:</span><i class="fa fa-creative-commons"></i> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="CC BY-NC-SA 4.0 International" target="_blank">"署名-非商用-相同方式共享 4.0"</a> 转载请保留原文链接及作者。
     </p>
